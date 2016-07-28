@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica;
+  /*font-size: 3em;*/
+  height: 100%;
+}
+
+.ideThemeSelect {
+  font-size: 1.5em;
+  margin: 1% 0;
+}
+
+.fontSelect {
+  font-size: 1.5em;
+  margin: 1% 0;
+}
+
+.codemirror-test {
+
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  height: 50%;
+}
+
+#lineNo {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
